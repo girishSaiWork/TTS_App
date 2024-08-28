@@ -3,6 +3,9 @@
 // Start Generation Here
 This Text to Speech App allows users to convert written text into spoken words using advanced speech synthesis technology. 
 
+
+![TTS](image.png)
+
 ## Features
 
 - **User-Friendly Interface**: The app features a clean and intuitive interface that makes it easy for users to input text and control playback.
@@ -16,3 +19,6 @@ This Text to Speech App allows users to convert written text into spoken words u
 - **Real-Time Text Display**: As the text is being read aloud, the app displays the current text being spoken, enhancing the user experience.
 
 This app is designed to be accessible and efficient, making it a great tool for anyone looking to convert text to speech for various applications, including education, accessibility, and entertainment.
+
+
+
