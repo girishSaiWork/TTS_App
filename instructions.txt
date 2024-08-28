@@ -1,0 +1,9 @@
+Text to Speech App
+Allows the user to input text and convert it to speech.
+
+Features:
+2. Text-to-Speech Conversion
+3. Voice Selection
+4. Save and Retrieve Converted Text
+5. User-Specific Conversions
+6. Control the speech wtih play, pause, stop, speed, volume and speech with slider
